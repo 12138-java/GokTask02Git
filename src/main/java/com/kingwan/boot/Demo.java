@@ -23,6 +23,6 @@ public class Demo {
         log.warn("warn");
         log.info("info");
         log.error("error");
-        return "Hello Spring Boot my name is csh";
+        return "Hello Spring Boot my name is csh。。。";
     }
 }
